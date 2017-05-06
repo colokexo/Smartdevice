@@ -1,3 +1,5 @@
 max current microcontroller 58 mA (TM4C123)
 max current regulator 500 mA (tps73633drb)
 can nguon cap rieng cho module wifi tu 5v -> 3v3 l1117 3.3
+12v-> 5v -> 3.3v
+
